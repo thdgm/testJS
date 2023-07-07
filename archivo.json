@@ -1,0 +1,362 @@
+{
+  "areas": [
+    {
+      "area": "metapod",
+      "domains": [
+        {
+          "domain": "shed-skin",
+          "subdomain": [
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "area": "caterpie",
+      "domains": [
+        {
+          "domain": "shield-dust",
+          "subdomain": [
+            19
+          ]
+        },
+        {
+          "domain": "run-away",
+          "subdomain": [
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "area": "charmeleon",
+      "domains": [
+        {
+          "domain": "blaze",
+          "subdomain": [
+            66
+          ]
+        },
+        {
+          "domain": "solar-power",
+          "subdomain": [
+            94
+          ]
+        }
+      ]
+    },
+    {
+      "area": "squirtle",
+      "domains": [
+        {
+          "domain": "torrent",
+          "subdomain": [
+            67
+          ]
+        },
+        {
+          "domain": "rain-dish",
+          "subdomain": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "area": "beedrill",
+      "domains": [
+        {
+          "domain": "swarm",
+          "subdomain": [
+            68
+          ]
+        },
+        {
+          "domain": "sniper",
+          "subdomain": [
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "area": "wartortle",
+      "domains": [
+        {
+          "domain": "torrent",
+          "subdomain": [
+            67
+          ]
+        },
+        {
+          "domain": "rain-dish",
+          "subdomain": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "area": "pidgeotto",
+      "domains": [
+        {
+          "domain": "keen-eye",
+          "subdomain": [
+            51
+          ]
+        },
+        {
+          "domain": "tangled-feet",
+          "subdomain": [
+            77
+          ]
+        },
+        {
+          "domain": "big-pecks",
+          "subdomain": [
+            145
+          ]
+        }
+      ]
+    },
+    {
+      "area": "pidgeot",
+      "domains": [
+        {
+          "domain": "keen-eye",
+          "subdomain": [
+            51
+          ]
+        },
+        {
+          "domain": "tangled-feet",
+          "subdomain": [
+            77
+          ]
+        },
+        {
+          "domain": "big-pecks",
+          "subdomain": [
+            145
+          ]
+        }
+      ]
+    },
+    {
+      "area": "pidgey",
+      "domains": [
+        {
+          "domain": "keen-eye",
+          "subdomain": [
+            51
+          ]
+        },
+        {
+          "domain": "tangled-feet",
+          "subdomain": [
+            77
+          ]
+        },
+        {
+          "domain": "big-pecks",
+          "subdomain": [
+            145
+          ]
+        }
+      ]
+    },
+    {
+      "area": "butterfree",
+      "domains": [
+        {
+          "domain": "compound-eyes",
+          "subdomain": [
+            14
+          ]
+        },
+        {
+          "domain": "tinted-lens",
+          "subdomain": [
+            110
+          ]
+        }
+      ]
+    },
+    {
+      "area": "blastoise",
+      "domains": [
+        {
+          "domain": "torrent",
+          "subdomain": [
+            67
+          ]
+        },
+        {
+          "domain": "rain-dish",
+          "subdomain": [
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "area": "rattata",
+      "domains": [
+        {
+          "domain": "run-away",
+          "subdomain": [
+            50
+          ]
+        },
+        {
+          "domain": "guts",
+          "subdomain": [
+            62
+          ]
+        },
+        {
+          "domain": "hustle",
+          "subdomain": [
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "area": "bulbasaur",
+      "domains": [
+        {
+          "domain": "overgrow",
+          "subdomain": [
+            65
+          ]
+        },
+        {
+          "domain": "chlorophyll",
+          "subdomain": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "area": "charizard",
+      "domains": [
+        {
+          "domain": "blaze",
+          "subdomain": [
+            66
+          ]
+        },
+        {
+          "domain": "solar-power",
+          "subdomain": [
+            94
+          ]
+        }
+      ]
+    },
+    {
+      "area": "charmander",
+      "domains": [
+        {
+          "domain": "blaze",
+          "subdomain": [
+            66
+          ]
+        },
+        {
+          "domain": "solar-power",
+          "subdomain": [
+            94
+          ]
+        }
+      ]
+    },
+    {
+      "area": "raticate",
+      "domains": [
+        {
+          "domain": "run-away",
+          "subdomain": [
+            50
+          ]
+        },
+        {
+          "domain": "guts",
+          "subdomain": [
+            62
+          ]
+        },
+        {
+          "domain": "hustle",
+          "subdomain": [
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "area": "kakuna",
+      "domains": [
+        {
+          "domain": "shed-skin",
+          "subdomain": [
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "area": "weedle",
+      "domains": [
+        {
+          "domain": "shield-dust",
+          "subdomain": [
+            19
+          ]
+        },
+        {
+          "domain": "run-away",
+          "subdomain": [
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "area": "venusaur",
+      "domains": [
+        {
+          "domain": "overgrow",
+          "subdomain": [
+            65
+          ]
+        },
+        {
+          "domain": "chlorophyll",
+          "subdomain": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "area": "ivysaur",
+      "domains": [
+        {
+          "domain": "overgrow",
+          "subdomain": [
+            65
+          ]
+        },
+        {
+          "domain": "chlorophyll",
+          "subdomain": [
+            34
+          ]
+        }
+      ]
+    }
+  ]
+}
